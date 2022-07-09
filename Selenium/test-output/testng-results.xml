@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-23T10:23:48 IST" name="Default suite" finished-at="2021-12-23T10:24:34 IST" duration-ms="45980">
+    <groups>
+    </groups>
+    <test started-at="2021-12-23T10:23:48 IST" name="Default test" finished-at="2021-12-23T10:24:34 IST" duration-ms="45980">
+      <class name="Test.Udacity_SignInTestCases">
+        <test-method is-config="true" signature="prereqirement()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:23:48 IST" name="prereqirement" finished-at="2021-12-23T10:23:51 IST" duration-ms="3704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prereqirement -->
+        <test-method signature="ValidateCorrectEmailCorrectPassword()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:23:51 IST" name="ValidateCorrectEmailCorrectPassword" finished-at="2021-12-23T10:23:52 IST" duration-ms="898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCorrectEmailCorrectPassword -->
+        <test-method is-config="true" signature="Postrequirement()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:23:52 IST" name="Postrequirement" finished-at="2021-12-23T10:23:56 IST" duration-ms="4181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postrequirement -->
+        <test-method is-config="true" signature="prereqirement()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:23:56 IST" name="prereqirement" finished-at="2021-12-23T10:23:59 IST" duration-ms="2327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prereqirement -->
+        <test-method signature="ValidateCorrectEmailIncorrectPassword()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:23:59 IST" name="ValidateCorrectEmailIncorrectPassword" finished-at="2021-12-23T10:24:00 IST" duration-ms="1588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCorrectEmailIncorrectPassword -->
+        <test-method is-config="true" signature="Postrequirement()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:24:00 IST" name="Postrequirement" finished-at="2021-12-23T10:24:05 IST" duration-ms="4157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postrequirement -->
+        <test-method is-config="true" signature="prereqirement()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:24:05 IST" name="prereqirement" finished-at="2021-12-23T10:24:07 IST" duration-ms="2302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prereqirement -->
+        <test-method signature="ValidateIncorrectEmailCorrectPassword()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:24:07 IST" name="ValidateIncorrectEmailCorrectPassword" finished-at="2021-12-23T10:24:09 IST" duration-ms="1871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateIncorrectEmailCorrectPassword -->
+        <test-method is-config="true" signature="Postrequirement()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:24:09 IST" name="Postrequirement" finished-at="2021-12-23T10:24:13 IST" duration-ms="4177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postrequirement -->
+        <test-method is-config="true" signature="prereqirement()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:24:13 IST" name="prereqirement" finished-at="2021-12-23T10:24:15 IST" duration-ms="2026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prereqirement -->
+        <test-method signature="Validate_ErrorForBlankEmailPassword()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:24:15 IST" name="Validate_ErrorForBlankEmailPassword" finished-at="2021-12-23T10:24:16 IST" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_ErrorForBlankEmailPassword -->
+        <test-method is-config="true" signature="Postrequirement()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:24:16 IST" name="Postrequirement" finished-at="2021-12-23T10:24:20 IST" duration-ms="4196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postrequirement -->
+        <test-method is-config="true" signature="prereqirement()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:24:20 IST" name="prereqirement" finished-at="2021-12-23T10:24:22 IST" duration-ms="2123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prereqirement -->
+        <test-method signature="Validate_URL()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:24:22 IST" name="Validate_URL" finished-at="2021-12-23T10:24:22 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_URL -->
+        <test-method is-config="true" signature="Postrequirement()[pri:0, instance:Test.Udacity_SignInTestCases@5965be2d]" started-at="2021-12-23T10:24:22 IST" name="Postrequirement" finished-at="2021-12-23T10:24:22 IST" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postrequirement -->
+      </class> <!-- Test.Udacity_SignInTestCases -->
+      <class name="Test.Udacity_CoursesCartTestcase">
+        <test-method signature="HomeCoursesaddtioninCart()[pri:0, instance:Test.Udacity_CoursesCartTestcase@409c54f]" started-at="2021-12-23T10:24:22 IST" name="HomeCoursesaddtioninCart" finished-at="2021-12-23T10:24:29 IST" duration-ms="7297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeCoursesaddtioninCart -->
+        <test-method is-config="true" signature="Postrequirement()[pri:0, instance:Test.Udacity_CoursesCartTestcase@409c54f]" started-at="2021-12-23T10:24:29 IST" name="Postrequirement" finished-at="2021-12-23T10:24:34 IST" duration-ms="4178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postrequirement -->
+      </class> <!-- Test.Udacity_CoursesCartTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
